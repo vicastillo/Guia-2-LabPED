@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejemplo5_Guia2_LabPED/1.0.0": {
+        "runtime": {
+          "Ejemplo5_Guia2_LabPED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo5_Guia2_LabPED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
